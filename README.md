@@ -67,8 +67,8 @@ Bachelors in Computer Science, 2009-2013
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+RISE Certified
 
 ##### Achievements
-Star performer of the year at Accenture
+
 <!-- FEATURED Section Ends -->
