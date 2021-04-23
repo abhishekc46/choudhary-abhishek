@@ -45,8 +45,13 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### National University of Singapore
+Masters in Business Analytics, 2015-2016
+
+
+##### Manipal Institute of Technology
+Bachelors in Computer Science, 2009-2013
+
 
 <!-- EDUCATION Section Ends -->
 
