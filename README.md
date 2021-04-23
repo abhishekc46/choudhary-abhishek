@@ -17,7 +17,11 @@
 
 <!-- Add your details -->
 
-I am __Abhishek Choudhary__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+__Abhishek__ is a part of GAMMA team in BCG Singapore office.
+
+As an analytics professional, he has vast amount of experience in Customer Analytics ranging from building Pricing, Cross Sell, Churn models which have helped organizations in increasing their bottom line growth.
+
+He holds an Engineering degree in Computer Science from Manipal University in India and has a Master’s in Business Analytics from NUS.
 
 
 <!-- Add link to the sections -->
