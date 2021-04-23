@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/abhishekc46/choudhary-abhishek/main/images/pp_3463.jpg)
+![alt text](https://raw.githubusercontent.com/abhishekc46/choudhary-abhishek/main/images/Abhishek%20Choudhary%20Passport%20Photo.jpg)
 
 <!-- Add your details -->
 
